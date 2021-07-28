@@ -1,0 +1,17 @@
+solution.localDebugTeamsAppId=293bfb45-a888-437c-b528-18746ac90de8
+solution.teamsAppTenantId=f251f123-c9ce-448e-9277-34bb285911d9
+fx-resource-aad-app-for-teams.local_clientSecret=crypto_d4a239798fd7c10ec9eebab65a3e23d7c51ed5c33dacaabd2b523227e3dea9b797e5bb6a6b17d53968ac8bd3ec3ebd8c987f4172a0f36ecfcdc37e7e3b88276e81bce8ae8c238be573795379fa908438e80c10f5336296141813a3f2c9d4e8e35bc46a58be1988eb394d5705b901181df05b0527351d94925131f72d7c753e1c6126
+fx-resource-aad-app-for-teams.local_clientId=a2c3ee9d-9420-46ca-8035-f6e0f2e32a13
+fx-resource-aad-app-for-teams.local_objectId=8cf9b651-b2d9-49b3-899e-09d93b842500
+fx-resource-aad-app-for-teams.local_oauth2PermissionScopeId=68748a2c-1ae2-4d0f-8125-db017530cfa2
+fx-resource-aad-app-for-teams.local_tenantId=f251f123-c9ce-448e-9277-34bb285911d9
+fx-resource-aad-app-for-teams.local_applicationIdUris=api://botid-5f448722-c0b3-4070-90a0-bd978b2d5e21
+fx-resource-local-debug.skipNgrok=false
+fx-resource-local-debug.localBotEndpoint=https://17a24ab6597f.ngrok.io
+fx-resource-local-debug.localAuthEndpoint=http://localhost:5000
+fx-resource-local-debug.localBotDomain=17a24ab6597f.ngrok.io
+fx-resource-bot.localBotPassword=crypto_288e81c6ff2e2ef16844af7329c2d17491d7b08874da4e76b288619858989e77898c7a50384ec8b89c9f847a851ded37dc313bf535a63927d2db74a22b7b83a993909f44e54aa29e3db4159dcf01f3bb1cbc69b6c31ce02cda83c97d7da8a2996f4a32ae44ebadd255779e60c6c4d5f8dbc4a02f0d2ccce3cf4d9227690ea86cd4ad
+fx-resource-bot.localBotId=5f448722-c0b3-4070-90a0-bd978b2d5e21
+fx-resource-bot.localObjectId=3477881d-a40e-4533-a370-0749d8d83cca
+fx-resource-bot.local_redirectUri=https://17a24ab6597f.ngrok.io/public
+fx-resource-bot.bots=[{"botId":"5f448722-c0b3-4070-90a0-bd978b2d5e21","scopes":["personal","team","groupchat"],"supportsFiles":false,"isNotificationOnly":false,"commandLists":[{"scopes":["personal","team","groupchat"],"commands":[{"title":"bot command title","description":"bot command description"}]}]}]
