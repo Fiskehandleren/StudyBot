@@ -5,7 +5,7 @@ export class Pomodoro {
     shortBreak: number;
     longBreak: number;
 
-    sessionCount: number = 0;
+    sessionCount = 0;
     breakActive = false;
     sessionActive = false;
     timer: NodeJS.Timeout;
