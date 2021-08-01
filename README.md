@@ -15,6 +15,7 @@
 2. Build the bot by running `npm run build`
 3. Run the bot by running `npm run start`
 4. Connect to the bot via Bot Framework-Emulator by pointing to the URL http://localhost:3978
+
 Note: `whoami` will not work as you're not logged in to the Teams application.
 
 ### Use directly in Teams
